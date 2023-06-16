@@ -4,39 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/Address.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/AddressTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/book/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/book/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/book/Content.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/book/Title.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/computer/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework2/MyArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework2/car1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework2/car2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework2/car3/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/Vehicles/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/Vehicles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/Vehicles/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/Vehicles/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/Vehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/BadPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/ClassRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/ExcellentPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/GoodPupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/Pupil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/documentWorker/DocumentWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/documentWorker/ExpertDocumentWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/documentWorker/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/documentWorker/ProDocumentWorker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework3/printer/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/lessons/Car.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework3">
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework1/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework2/BigDecimalNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework2/SystemOut.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/ArithmeticAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/IncrementDecrement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/Volume.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework4/Translator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/homework/Homework_oop.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +50,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.java_essential.homework3.Vehicles.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework3.printer.Main" />
+  <component name="RunManager" selected="Application.Calculator">
+    <configuration name="ArithmeticAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_start.homework3.ArithmeticAverage" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework3.printer.*" />
+          <option name="PATTERN" value="java_start.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.homework3.Vehicle.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework3.Vehicle.Main" />
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_start.homework4.Calculator" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework3.Vehicle.*" />
+          <option name="PATTERN" value="java_start.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.homework3.Vehicles.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework3.Vehicles.Main" />
+    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_start.homework3.Circle" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework3.Vehicles.*" />
+          <option name="PATTERN" value="java_start.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.homework3.classroom.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework3.classroom.Main" />
+    <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_start.homework4.Translator" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework3.classroom.*" />
+          <option name="PATTERN" value="java_start.homework4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.homework3.documentWorker.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework3.documentWorker.Main" />
+    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_start.homework3.Volume" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework3.documentWorker.*" />
+          <option name="PATTERN" value="java_start.homework3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java_essential.homework3.Vehicles.Main" />
-        <item itemvalue="Application.java_essential.homework3.documentWorker.Main" />
-        <item itemvalue="Application.java_essential.homework3.Vehicle.Main" />
-        <item itemvalue="Application.java_essential.homework3.classroom.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.Translator" />
+        <item itemvalue="Application.Volume" />
+        <item itemvalue="Application.Circle" />
+        <item itemvalue="Application.ArithmeticAverage" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +135,19 @@
       <option name="presentableId" value="Default" />
       <updated>1686256542399</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework3">
+      <created>1686883562168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686883562168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
