@@ -1,21 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework3">
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework1/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework2/BigDecimalNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework2/SystemOut.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/ArithmeticAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/IncrementDecrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework3/Volume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework4/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework4/Translator.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/AbstractHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/DOCHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/TXTHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/XMLHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Recordable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ArrayListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ArraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ListIteratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ZooTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_start/homework4/Interval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/homework3/classroom/ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/ClassRoom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +37,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -42,21 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="ArithmeticAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_start.homework3.ArithmeticAverage" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="java_essential.homework4" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ArrayListTest">
+    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ArrayListTest" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_start.homework3.*" />
+          <option name="PATTERN" value="java_essential.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_start.homework4.Calculator" />
+    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ArraysTest" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_start.homework4.*" />
+          <option name="PATTERN" value="java_essential.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Circle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_start.homework3.Circle" />
+    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ListIteratorTest" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_start.homework3.*" />
+          <option name="PATTERN" value="java_essential.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Translator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_start.homework4.Translator" />
+    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.Zoo" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_start.homework4.*" />
+          <option name="PATTERN" value="java_essential.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Volume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_start.homework3.Volume" />
+    <configuration name="ZooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ZooTest" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_start.homework3.*" />
+          <option name="PATTERN" value="java_essential.homework5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.Translator" />
-        <item itemvalue="Application.Volume" />
-        <item itemvalue="Application.Circle" />
-        <item itemvalue="Application.ArithmeticAverage" />
+        <item itemvalue="Application.ArrayListTest" />
+        <item itemvalue="Application.ArraysTest" />
+        <item itemvalue="Application.ListIteratorTest" />
+        <item itemvalue="Application.ZooTest" />
+        <item itemvalue="Application.Zoo" />
       </list>
     </recent_temporary>
   </component>
@@ -142,12 +161,20 @@
       <option name="project" value="LOCAL" />
       <updated>1686883562168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework">
+      <created>1686928032894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686928032894</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework3" />
+    <MESSAGE value="Homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

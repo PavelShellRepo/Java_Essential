@@ -1,8 +1,8 @@
 package java_essential.homework3.classroom;
 
 public class ClassRoom {
-    private Pupil pupil1;
-    private Pupil pupil2;
+    private final Pupil pupil1;
+    private final Pupil pupil2;
     private Pupil pupil3;
     private Pupil pupil4;
 
