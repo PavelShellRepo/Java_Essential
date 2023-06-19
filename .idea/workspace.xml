@@ -7,27 +7,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/AbstractHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/DOCHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/TXTHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Handler/XMLHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Playable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework4/Player/Recordable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ArrayListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ArraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ListIteratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/Zoo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework5/ZooTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_start/homework4/Interval.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework 5">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Container.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Vehicle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/homework3/classroom/ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/homework3/classroom/ClassRoom.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +54,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListTest">
-    <configuration name="ArrayListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ArrayListTest" />
+  <component name="RunManager" selected="Application.Calculator$Main">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Bank" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework5.*" />
+          <option name="PATTERN" value="java_essential.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraysTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ArraysTest" />
+    <configuration name="Calculator$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Calculator$Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework5.*" />
+          <option name="PATTERN" value="java_essential.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListIteratorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ListIteratorTest" />
+    <configuration name="Container" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Container" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework5.*" />
+          <option name="PATTERN" value="java_essential.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.Zoo" />
+    <configuration name="Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Distance" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework5.*" />
+          <option name="PATTERN" value="java_essential.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZooTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework5.ZooTest" />
+    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Vehicle" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework5.*" />
+          <option name="PATTERN" value="java_essential.homework6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListTest" />
-        <item itemvalue="Application.ArraysTest" />
-        <item itemvalue="Application.ListIteratorTest" />
-        <item itemvalue="Application.ZooTest" />
-        <item itemvalue="Application.Zoo" />
+        <item itemvalue="Application.Calculator$Main" />
+        <item itemvalue="Application.Distance" />
+        <item itemvalue="Application.Container" />
+        <item itemvalue="Application.Vehicle" />
+        <item itemvalue="Application.Bank" />
       </list>
     </recent_temporary>
   </component>
@@ -168,13 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1686928032894</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Homework 5">
+      <created>1687120796533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687120796533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework3" />
     <MESSAGE value="Homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework" />
+    <MESSAGE value="Homework 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 5" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
