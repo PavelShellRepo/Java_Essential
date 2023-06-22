@@ -7,11 +7,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework 5">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Container.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework6/Vehicle.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework 6">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Animals/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Animals/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CardSuit/CardSuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CardSuit/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CoffeeSize/CoffeeSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CoffeeSize/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/DaysOfWeek/DaysOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/DaysOfWeek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Shape/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Vehicles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Phone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +33,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -54,13 +65,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Calculator$Main">
-    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Bank" />
+  <component name="RunManager" selected="Application.java_essential.homework7.Shape.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.CoffeeSize.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework6.*" />
+          <option name="PATTERN" value="java_essential.homework7.CoffeeSize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Calculator$Main" />
+    <configuration name="java_essential.homework7.Animals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.Animals.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework6.*" />
+          <option name="PATTERN" value="java_essential.homework7.Vehicles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Container" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Container" />
+    <configuration name="java_essential.homework7.CardSuit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.CardSuit.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework6.*" />
+          <option name="PATTERN" value="java_essential.homework7.CardSuit.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Distance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Distance" />
+    <configuration name="java_essential.homework7.DaysOfWeek.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.DaysOfWeek.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework6.*" />
+          <option name="PATTERN" value="java_essential.homework7.DaysOfWeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vehicle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework6.Vehicle" />
+    <configuration name="java_essential.homework7.Shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.Shape.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework6.*" />
+          <option name="PATTERN" value="java_essential.homework7.Shape.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator$Main" />
-        <item itemvalue="Application.Distance" />
-        <item itemvalue="Application.Container" />
-        <item itemvalue="Application.Vehicle" />
-        <item itemvalue="Application.Bank" />
+        <item itemvalue="Application.java_essential.homework7.Shape.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.java_essential.homework7.CardSuit.Main" />
+        <item itemvalue="Application.java_essential.homework7.DaysOfWeek.Main" />
+        <item itemvalue="Application.java_essential.homework7.Animals.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -160,14 +171,22 @@
       <option name="project" value="LOCAL" />
       <updated>1687120796533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Homework 6">
+      <created>1687199712783</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1687199712783</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework3" />
     <MESSAGE value="Homework" />
     <MESSAGE value="Homework 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 5" />
+    <MESSAGE value="Homework 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 6" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
