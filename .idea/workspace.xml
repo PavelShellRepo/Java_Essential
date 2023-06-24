@@ -7,21 +7,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework 6">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Animals/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CardSuit/CardSuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CardSuit/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CoffeeSize/CoffeeSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/CoffeeSize/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/DaysOfWeek/DaysOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/DaysOfWeek/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Shape/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/Vehicles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Mobile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/homework7/multiple_inheritance/Phone.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="Homework 7">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/Calculator/GenericCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/book/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/price/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/price/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/worker/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework8/worker/Worker.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,17 +55,46 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="java_essential.homework8" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java_essential.homework7.Shape.Main">
+  <component name="RunManager" selected="Application.GenericCalculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework8.Calculator.Calculator" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_essential.homework8.Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework8.Calculator.GenericCalculator" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_essential.homework8.Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.CoffeeSize.Main" />
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework8.price.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework7.CoffeeSize.*" />
+          <option name="PATTERN" value="java_essential.homework8.price.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.homework7.Animals.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.Animals.Main" />
+    <configuration name="java_essential.homework8.book.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework8.book.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework7.Vehicles.*" />
+          <option name="PATTERN" value="java_essential.homework8.book.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,38 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.homework7.CardSuit.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.CardSuit.Main" />
+    <configuration name="java_essential.homework8.worker.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework8.worker.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.homework7.CardSuit.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java_essential.homework7.DaysOfWeek.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.DaysOfWeek.Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_essential.homework7.DaysOfWeek.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="java_essential.homework7.Shape.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.homework7.Shape.Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_essential.homework7.Shape.*" />
+          <option name="PATTERN" value="java_essential.homework8.worker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.java_essential.homework7.Shape.Main" />
+        <item itemvalue="Application.GenericCalculator" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.java_essential.homework8.book.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.java_essential.homework7.CardSuit.Main" />
-        <item itemvalue="Application.java_essential.homework7.DaysOfWeek.Main" />
-        <item itemvalue="Application.java_essential.homework7.Animals.Main" />
+        <item itemvalue="Application.java_essential.homework8.worker.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687199712783</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework 7">
+      <created>1687394646177</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1687394646177</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -186,7 +190,8 @@
     <MESSAGE value="Homework" />
     <MESSAGE value="Homework 5" />
     <MESSAGE value="Homework 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 6" />
+    <MESSAGE value="Homework 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
