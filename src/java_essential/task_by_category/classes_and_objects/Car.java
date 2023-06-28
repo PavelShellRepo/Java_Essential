@@ -33,18 +33,22 @@ public class Car {
 
     @Override
     public String toString() {
-        return "Car{" +
-                "brand='" + brand + '\'' +
-                ", model='" + model + '\'' +
-                ", color='" + color + '\'' +
-                ", year=" + year +
-                '}';
+        return "Car information: " + '\n' +
+                "----------------" + '\n' +
+                "Brand: " + brand + '\n' +
+                "Model: " + model + '\n' +
+                "Color: " + color + '\n' +
+                "Year of manufacture : " + year + '\n' +
+                "----------------" + '\n';
     }
 
     public static class Main {
         public static void main(String[] args) {
             Car bmw = new Car("BMW", "M5 sport", "Black", 2022);
+            Car audi = new Car("Audi", "A7", "Red", 2019);
+
             System.out.println(bmw);
+            System.out.println(audi);
         }
     }
 }
