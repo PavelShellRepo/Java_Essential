@@ -7,16 +7,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/Static and nested classes">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/dayOfWeek/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/dayOfWeek/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/greeting/Greeting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/greeting/Main.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/Anonymous classes and enum types">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/exceptions/arithmeticException/ArithmeticExceptionError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/exceptions/customException/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/exceptions/customException/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/MathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/MathUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Outer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,13 +60,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.Main" />
+  <component name="RunManager" selected="Application.java_essential.task_by_category.exceptions.customException.Main">
+    <configuration name="ArithmeticExceptionError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.exceptions.arithmeticException.ArithmeticExceptionError" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.*" />
+          <option name="PATTERN" value="java_essential.task_by_category.exceptions.arithmeticException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.lists.Student$Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.lists.*" />
+          <option name="PATTERN" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" />
+    <configuration name="java_essential.task_by_category.exceptions.customException.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.exceptions.customException.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.static_and_nested_classes.mathUtils.*" />
+          <option name="PATTERN" value="java_essential.task_by_category.exceptions.customException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_essential.task_by_category.exceptions.customException.Main" />
+        <item itemvalue="Application.ArithmeticExceptionError" />
         <item itemvalue="Application.java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.java_essential.task_by_category.static_and_nested_classes.outer.Main" />
-        <item itemvalue="Application.java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" />
-        <item itemvalue="Application.Student$Main" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687952001142</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="add task by learned category/Anonymous classes and enum types">
+      <created>1687953149420</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1687953149420</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,7 +235,8 @@
     <MESSAGE value="add task by learned category" />
     <MESSAGE value="add task by learned category/lists" />
     <MESSAGE value="add task by learned category/Static and nested classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task by learned category/Static and nested classes" />
+    <MESSAGE value="add task by learned category/Anonymous classes and enum types" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task by learned category/Anonymous classes and enum types" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
