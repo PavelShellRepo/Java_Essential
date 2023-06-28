@@ -7,12 +7,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/lists">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/MathUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Outer.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/Static and nested classes">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/dayOfWeek/DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/dayOfWeek/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/greeting/Greeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/anonymous_classes_and_enum_types/greeting/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/MathUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/MathUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Outer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -61,26 +65,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.java_essential.task_by_category.static_and_nested_classes.outer.Main">
-    <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.lists.ListTest" />
+  <component name="RunManager" selected="Application.java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Person$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.classes_and_objects.Person$Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.classes_and_objects.*" />
+          <option name="PATTERN" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,6 +85,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_essential.task_by_category.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.java_essential.task_by_category.static_and_nested_classes.outer.Main" />
         <item itemvalue="Application.java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" />
         <item itemvalue="Application.Student$Main" />
-        <item itemvalue="Application.ListTest" />
-        <item itemvalue="Application.Person$Main" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687950292919</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add task by learned category/Static and nested classes">
+      <created>1687952001142</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1687952001142</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -221,7 +232,8 @@
     <MESSAGE value="Homework 8" />
     <MESSAGE value="add task by learned category" />
     <MESSAGE value="add task by learned category/lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task by learned category/lists" />
+    <MESSAGE value="add task by learned category/Static and nested classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task by learned category/Static and nested classes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
