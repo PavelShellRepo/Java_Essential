@@ -7,26 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/drawable/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/drawable/Drawable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/drawable/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/drawable/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/abstract_classes_and_interfaces/drawable/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/inheritance_and_polymorphism/animal/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/inheritance_and_polymorphism/animal/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/inheritance_and_polymorphism/animal/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/inheritance_and_polymorphism/animal/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/inheritance_and_polymorphism/animal/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/inheritance_and_polymorphism/shape/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/lists/ListTest.java" afterDir="false" />
+    <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/lists">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/lists/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/classes_and_objects/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/classes_and_objects/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/classes_and_objects/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/classes_and_objects/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +58,7 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListTest">
+  <component name="RunManager" selected="Application.Student$Main">
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.lists.ListTest" />
       <module name="JAVA" />
@@ -115,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Student$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.lists.Student$Main" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_essential.task_by_category.lists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="java_essential.task_by_category.abstract_classes_and_interfaces.animal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.abstract_classes_and_interfaces.animal.Main" />
       <module name="JAVA" />
@@ -128,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.task_by_category.inheritance_and_polymorphism.animal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.inheritance_and_polymorphism.animal.Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.inheritance_and_polymorphism.animal.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Student$Main" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.Person$Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.java_essential.task_by_category.abstract_classes_and_interfaces.animal.Main" />
-        <item itemvalue="Application.java_essential.task_by_category.inheritance_and_polymorphism.animal.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687945072487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add task by learned category/lists">
+      <created>1687948928971</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687948928971</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -220,7 +210,8 @@
     <MESSAGE value="Homework 7" />
     <MESSAGE value="Homework 8" />
     <MESSAGE value="add task by learned category" />
-    <option name="LAST_COMMIT_MESSAGE" value="add task by learned category" />
+    <MESSAGE value="add task by learned category/lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="add task by learned category/lists" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
