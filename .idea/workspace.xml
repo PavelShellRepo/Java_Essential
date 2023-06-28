@@ -8,7 +8,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/lists">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/lists/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/mathUtils/MathUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/static_and_nested_classes/outer/Outer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,26 +61,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Student$Main">
+  <component name="RunManager" selected="Application.java_essential.task_by_category.static_and_nested_classes.outer.Main">
     <configuration name="ListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.lists.ListTest" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="java_essential.task_by_category.lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.abstract_classes_and_interfaces.drawable.Main" />
-      <module name="JAVA" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.abstract_classes_and_interfaces.drawable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +101,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.task_by_category.abstract_classes_and_interfaces.animal.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.abstract_classes_and_interfaces.animal.Main" />
+    <configuration name="java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.abstract_classes_and_interfaces.animal.*" />
+          <option name="PATTERN" value="java_essential.task_by_category.static_and_nested_classes.mathUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="java_essential.task_by_category.static_and_nested_classes.outer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.static_and_nested_classes.outer.Main" />
+      <module name="JAVA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java_essential.task_by_category.static_and_nested_classes.outer.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.java_essential.task_by_category.static_and_nested_classes.outer.Main" />
+        <item itemvalue="Application.java_essential.task_by_category.static_and_nested_classes.mathUtils.Main" />
         <item itemvalue="Application.Student$Main" />
         <item itemvalue="Application.ListTest" />
         <item itemvalue="Application.Person$Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.java_essential.task_by_category.abstract_classes_and_interfaces.animal.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687948928971</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add task by learned category/lists">
+      <created>1687950292919</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1687950292919</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
