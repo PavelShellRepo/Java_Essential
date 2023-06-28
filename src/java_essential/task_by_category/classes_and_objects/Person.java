@@ -1,5 +1,9 @@
 package java_essential.task_by_category.classes_and_objects;
 
+/*Создайте класс Person, который представляет человека.
+Добавьте поля для имени, возраста и адреса. Напишите методы для получения и установки значений полей.
+Создайте объекты класса Person и заполните их данными. Выведите информацию о каждом человеке.*/
+
 public class Person {
     private String name;
     private int age;
