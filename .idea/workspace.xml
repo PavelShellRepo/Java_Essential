@@ -8,8 +8,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/Exceptions">
+      <change afterPath="$PROJECT_DIR$/src/java_essential/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/practice/charAt/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/practice/charAt/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/practice/charAt/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/practice/length/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/practice/length/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/practice/length/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/ternary/Task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/ternary/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/ternary/Task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/ternary/Task4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/task_by_category/classes_and_objects/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/classes_and_objects/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,13 +68,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Car$Main">
-    <configuration name="ArithmeticExceptionError" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.exceptions.arithmeticException.ArithmeticExceptionError" />
+  <component name="RunManager" selected="Application.java_essential.practice.length.Task2">
+    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.practice.charAt.Task1" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.exceptions.arithmeticException.*" />
+          <option name="PATTERN" value="java_essential.practice.charAt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Car$Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.classes_and_objects.Car$Main" />
+    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.practice.charAt.Task2" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.classes_and_objects.*" />
+          <option name="PATTERN" value="java_essential.practice.charAt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.Main" />
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.practice.charAt.Task3" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.anonymous_classes_and_enum_types.greeting.*" />
+          <option name="PATTERN" value="java_essential.practice.charAt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" />
+    <configuration name="java_essential.practice.length.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.practice.length.Task1" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.*" />
+          <option name="PATTERN" value="java_essential.practice.length.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.task_by_category.exceptions.customException.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.task_by_category.exceptions.customException.Main" />
+    <configuration name="java_essential.practice.length.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.practice.length.Task2" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.task_by_category.exceptions.customException.*" />
+          <option name="PATTERN" value="java_essential.practice.length.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Car$Main" />
-        <item itemvalue="Application.java_essential.task_by_category.exceptions.customException.Main" />
-        <item itemvalue="Application.ArithmeticExceptionError" />
-        <item itemvalue="Application.java_essential.task_by_category.anonymous_classes_and_enum_types.dayOfWeek.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.java_essential.practice.length.Task2" />
+        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.java_essential.practice.length.Task1" />
+        <item itemvalue="Application.Task2" />
+        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -227,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687954377817</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="add task by learned category/Exceptions">
+      <created>1687956544177</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1687956544177</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
