@@ -1,4 +1,4 @@
-package java_essential.ternary;
+package java_essential.task_by_category.ternary;
 
 /*Напишите программу, которая принимает на вход три числа и находит наименьшее из них с использованием тернарного оператора.
 Выведите результат.*/

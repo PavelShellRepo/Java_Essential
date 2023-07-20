@@ -8,17 +8,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d60f5e19-5a06-4e69-b78e-9e06a0d3505c" name="Changes" comment="add task by learned category/add practice tasks for String">
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/append/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/append/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/isEmpty/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/isEmpty/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/isEmpty/Task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/split/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/split/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/substring/Task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java_essential/practice/substring/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework1/TypeConversionProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/ExchangeElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/MyDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/homework9/ThreeGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/arrays/MonkeysArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/testDir/genericTypeTest/test1/GenericTypeTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/testDir/genericTypeTest/test1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/testDir/genericTypeTest/test2/GenericTypeTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/testDir/genericTypeTest/test2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/testDir/genericTypeTest/test3/GenericTypeTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_essential/testDir/genericTypeTest/test3/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java_essential/practice/length/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/practice/length/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/TestClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/ternary/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/ternary/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/ternary/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/ternary/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/ternary/Task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/ternary/Task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java_essential/ternary/Task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_essential/task_by_category/ternary/Task4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +57,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.ide.settings.new.ui&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/Projects/Java Junior Developer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Projects\Java Junior Developer\src\java_essential\final_practice_assignment\book_library_management" />
@@ -67,13 +84,13 @@
       <recent name="java_essential.homework4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task2">
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.practice.append.Task1" />
+  <component name="RunManager" selected="Application.TypeConversionProgram">
+    <configuration name="MyDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework9.MyDictionary" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.practice.append.*" />
+          <option name="PATTERN" value="java_essential.homework9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.practice.append.Task2" />
+    <configuration name="MyList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework9.MyList" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.practice.append.*" />
+          <option name="PATTERN" value="java_essential.homework9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.practice.split.Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.practice.split.Task1" />
+    <configuration name="ThreeGen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework9.ThreeGen" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.practice.split.*" />
+          <option name="PATTERN" value="java_essential.homework9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.practice.split.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.practice.split.Task2" />
+    <configuration name="TypeConversionProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.homework1.TypeConversionProgram" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.practice.split.*" />
+          <option name="PATTERN" value="java_essential.homework1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="java_essential.practice.substring.Task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java_essential.practice.substring.Task2" />
+    <configuration name="java_essential.testDir.genericTypeTest.test3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_essential.testDir.genericTypeTest.test3.Main" />
       <module name="JAVA" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java_essential.practice.substring.*" />
+          <option name="PATTERN" value="java_essential.testDir.genericTypeTest.test3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +152,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task2" />
-        <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.java_essential.practice.split.Task2" />
-        <item itemvalue="Application.java_essential.practice.split.Task1" />
-        <item itemvalue="Application.java_essential.practice.substring.Task2" />
+        <item itemvalue="Application.TypeConversionProgram" />
+        <item itemvalue="Application.ThreeGen" />
+        <item itemvalue="Application.MyDictionary" />
+        <item itemvalue="Application.MyList" />
+        <item itemvalue="Application.java_essential.testDir.genericTypeTest.test3.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +168,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686256542399</updated>
+      <workItem from="1689799500580" duration="12664000" />
     </task>
     <task id="LOCAL-00001" summary="Homework3">
       <created>1686883562168</created>
@@ -250,8 +268,18 @@
       <option name="project" value="LOCAL" />
       <updated>1688402331565</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add task by learned category/add practice tasks for String">
+      <created>1688412373489</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1688412373489</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Homework3" />
@@ -267,6 +295,10 @@
     <MESSAGE value="add task by learned category/Exceptions" />
     <MESSAGE value="add task by learned category/add practice tasks for String" />
     <option name="LAST_COMMIT_MESSAGE" value="add task by learned category/add practice tasks for String" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/JAVA$A.ic" NAME="A Coverage Results" MODIFIED="1686831628985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

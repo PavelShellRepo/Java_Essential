@@ -1,4 +1,4 @@
-package java_essential.ternary;
+package java_essential.task_by_category.ternary;
 
 /*Напишите программу, которая сравнивает два числа и находит максимальное из них, используя тернарный оператор.
 Выведите результат.*/
